@@ -7,10 +7,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-//testing foe thanks
-//testing foe thanks
-
-
 namespace WebApplication1
 {
     public class Program
